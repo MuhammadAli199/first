@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "982757131856",
+    "firebase_url": "https://first-ebad8.firebaseio.com",
+    "project_id": "first-ebad8",
+    "storage_bucket": "first-ebad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982757131856:android:dd795ac025e56abb",
+        "android_client_info": {
+          "package_name": "com.example.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982757131856-hupt3qp0l62oq6mofklj126sfg6gercp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.first",
+            "certificate_hash": "16da7f54f90b2a8536b54e2fa1da933c705f943a"
+          }
+        },
+        {
+          "client_id": "982757131856-0u6inevrl67bfh5kkjnsdj9lds7go68c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2mqAuCXdhcxMZ689qVC-V_zyBLg9UKz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982757131856-0u6inevrl67bfh5kkjnsdj9lds7go68c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
